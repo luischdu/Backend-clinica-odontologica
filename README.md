@@ -3,7 +3,7 @@ Backend en Java y frontend en React
 
 ## Requsitos
 
-1. Tener [https://nodejs.org/es/](node.js)
+1. Tener [node.js](https://nodejs.org/es/)
 2. Tener IDE de Java
 
 ## Para hacer uso del proyecto
