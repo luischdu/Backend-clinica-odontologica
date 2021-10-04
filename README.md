@@ -4,11 +4,12 @@ Backend en Java y frontend en React
 ## Requsitos
 
 1. Tener [node.js](https://nodejs.org/es/)
-2. Tener IDE de Java
+2. Tener [git](https://git-scm.com/downloads)
+3. Tener IDE de Java
 
 ## Para hacer uso del proyecto
 
-1. Git clone https://github.com/luischdu/Backend-clinica-odontologica.git chavezluis
+1. correr el siguiente comando en la consola ``git clone https://github.com/luischdu/Backend-clinica-odontologica.git chavezluis``
 2. cd chavezluis
 3. cd front-end-clinica
 4. corer el comando en consola `npm install`
